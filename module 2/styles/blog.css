@@ -1,7 +1,7 @@
 .header{
 
     height: 300px;
-    background-image: url('az.jpg') ;
+    background-image: url('../images/az1.jpg') ;
     /* background-repeat: no-repeat;
     background-repeat: repeat-x;
     background-repeat: repeat-y; */
@@ -39,5 +39,10 @@ h3{
 .incident{
     border: 2px solid purple;
 
+
+}
+.el{
+
+    border: 2px solid red;
 
 }
