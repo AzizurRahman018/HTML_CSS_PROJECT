@@ -1,3 +1,24 @@
+.header{
+
+    height: 400px;
+    color: #c95722;
+    background-image: url('ch.jpg');
+    /* ager folder a jwar jonno ai vabe hobe  */
+    /* background-image: url('../ch.jpg'); */
+    background-repeat: no-repeat;
+    /* background-repeat: repeat-x; */
+    /* background-repeat: repeat-y; */
+    background-size: contain;
+    /* background-size: 100%;
+    background-position: top;
+    background-position: 50% 0; */
+
+
+
+
+    
+}
+
 h2{
     font-size: 30px;
     text-decoration: overline;
@@ -16,7 +37,8 @@ h2{
 }
 .incident{
     border: 2px solid blue ;
-    display: block;
+    /* display: block; */
+    display: inline-block;
     height: 50px;
 
 
